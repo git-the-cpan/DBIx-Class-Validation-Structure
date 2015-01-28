@@ -8,9 +8,9 @@ build_requires:
   Test::More: '0.88'
   Test::Warnings: '0'
 configure_requires:
-  Module::Build::Tiny: '0.038'
+  Module::Build::Tiny: '0.039'
 dynamic_config: 0
-generated_by: 'Dist::Milla version v1.0.5, Dist::Zilla version 5.015, CPAN::Meta::Converter version 2.140640'
+generated_by: 'Dist::Zilla version 5.025, Dist::Milla version v1.0.9, CPAN::Meta::Converter version 2.143240'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -33,4 +33,4 @@ resources:
   bugtracker: https://github.com/lejeunerenard/DBIx-Class-Validation-Structure/issues
   homepage: https://github.com/lejeunerenard/DBIx-Class-Validation-Structure
   repository: https://github.com/lejeunerenard/DBIx-Class-Validation-Structure.git
-version: '0.12'
+version: '0.13'
